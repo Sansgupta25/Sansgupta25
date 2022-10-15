@@ -1,4 +1,6 @@
 ### Hi there 👋
+### 🔭 I’m currently working on ecommerce website development using reacjs and firebase .
+### 🌱 I’m currently learning frontend technologies like reactjs, firebase ,Django etc.
 
 <!--
 **Sansgupta25/Sansgupta25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
